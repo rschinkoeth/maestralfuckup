@@ -1,0 +1,1 @@
+tmux send-keys -t mfuck:0.0 "echo all good" Enter
